@@ -1,1 +1,1 @@
-sketch.js contains the code for camtrails project, using rgb tracking to detect and track the white rbg values of the contrails and mimick the affect of object segmentation, creating a long exposure affect by playing around with blendMODE 
+sketch.js contains the code for camtrails project, using rgb tracking to detect and track the white rbg values of the contrails and mimick the effect of object segmentation, creating a long exposure affect by playing around with blendMODE 
